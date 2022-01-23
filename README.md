@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Python and Solidity
 - 🌱 I’m currently learning ...Solidity and Smart Contracts
 - 💞️ I’m looking to collaborate on ... Blockchain and d'apps
-- 📫 How to reach me ... @Diothennyc
+- 📫 How to reach me ... @Diothennyc on Instagram
 
 <!---
 DionelThen/DionelThen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
